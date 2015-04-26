@@ -1,8 +1,8 @@
 ##Data Dictionary for Human Activity Recognition Using Smartphones Dataset
 
-### activity_id	1
-    Activity Id
-    * 1 WALKING
+### activity_id
+   
+    1 WALKING
     2 WALKING_UPSTAIRS
     3 WALKING_DOWNSTAIRS
     4 SITTING
@@ -11,6 +11,7 @@
     
     
 ### activity_label
+
     WALKING
     WALKING_UPSTAIRS
     WALKING_DOWNSTAIRS
@@ -19,6 +20,7 @@
     LAYING
     
 ### subject_id  
+
 1..30
 
 
